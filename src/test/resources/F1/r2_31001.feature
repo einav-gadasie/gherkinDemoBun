@@ -10,7 +10,7 @@ Feature: fdfsds
 	Examples:
 		| param1 | param2 | param3 |
 		| 4      | 6      | 3      |
-		| 4      | 2      | 5      |
+		| 4      | 2      | 7      |
 
 @TSCID2013214
 	Scenario Outline: jhdgwjehfq
