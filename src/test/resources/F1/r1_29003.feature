@@ -13,7 +13,7 @@ Feature: rrrrr
 		| 4      | 8      | 4      |
 
 @TSCID2014078
-	Scenario Outline: ggggg changed
+	Scenario Outline: ggggg changed again
 		Given <param1> 
 		When  <param2>  
 		Then  <param3>  
