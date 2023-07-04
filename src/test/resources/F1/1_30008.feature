@@ -2,17 +2,6 @@
 @BSPID30008REV0.5.0
 Feature: 
 
-@TSCID2041008
-	Scenario Outline: cwecw
-		Given <param1> 
-		When  <param2>  
-		Then  <param3>  
-
-	Examples:
-		| param1 | param2 | param3 |
-		| 2      | 2      | 3      |
-		| 2      | 2      | 4      |
-
 @TSCID2038022
 	Scenario Outline: ooo
 		Given <param1> 
