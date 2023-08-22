@@ -3,7 +3,7 @@
 Feature: F
 @TSCID2084090
 	Scenario Outline: S1
-		Given <param1> 
+		Given <param1> change
 		When  <param2>  
 		Then  <param3>  
 
