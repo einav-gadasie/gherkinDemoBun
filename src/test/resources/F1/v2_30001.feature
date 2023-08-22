@@ -10,4 +10,4 @@ Feature: yyyy
 	Examples:
 		| param1 | param2 | param3 |
 		| 2      | 2      | 6      |
-		| 2      | 2      | 4      |
+		| 2      | 2      | 3      |
