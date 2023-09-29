@@ -3,7 +3,8 @@
 Feature: 
 @TSCID2115005
 	Scenario: Scenario BDD Alis
-		Given one step aa
+		Given one step aa 
 		When 1 is 0
+  		And neeew step added
   		And 2 is tow
 		Then success 
