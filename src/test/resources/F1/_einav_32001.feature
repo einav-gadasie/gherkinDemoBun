@@ -11,3 +11,13 @@ Feature: myFirst
 		| param1 | param2 | param3 |
 		| 4      | 4      | 3      |
 		| 4      | 2      | 4      |
+@TSCID2140002
+	Scenario Outline: scenario2
+		Given <param1> 
+		When  <param2>  
+		Then  <param3>  
+
+	Examples:
+		| param1 | param2 | param3 |
+		| 4      | 4      | 3      |
+		| 4      | 2      | 4      |
