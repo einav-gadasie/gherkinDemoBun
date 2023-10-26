@@ -1,7 +1,7 @@
 #Auto generated Octane revision tag
-@BSPID32002REV0.2.0
+@BSPID32001REV0.2.0
 Feature: myFirst
-@TSCID2140006
+@TSCID2140002
 	Scenario Outline: wow
 		Given <param1> 
 		When  <param2>  
