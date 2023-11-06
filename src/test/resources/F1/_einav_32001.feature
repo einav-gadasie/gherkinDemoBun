@@ -1,5 +1,5 @@
 #Auto generated Octane revision tag
-@BSPID32001REV0.3.0
+@BSPID32001REV0.4.0
 Feature: myFirst
 @TSCID2140002
 	Scenario Outline: wow
