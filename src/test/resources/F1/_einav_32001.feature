@@ -2,7 +2,7 @@
 @BSPID32001REV0.3.0
 Feature: myFirst
 @TSCID2140002
-	Scenario Outline: wow12rrr
+	Scenario Outline: dwow12rrrd
 		Given <param1> 
 		When  <param2>  
 		Then  <param3>  
