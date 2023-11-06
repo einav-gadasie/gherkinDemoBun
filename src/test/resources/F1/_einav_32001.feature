@@ -2,9 +2,6 @@
 @BSPID32001REV0.4.0
 Feature: myFirst
 @TSCID2140002
-	Scenario Outline: wow
-		Given <param1> 
-		When  <param2>  
 		Then  <param3>  
 
 	Examples:
